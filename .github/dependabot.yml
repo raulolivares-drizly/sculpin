@@ -4,6 +4,6 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
-    target-branch: "development"
+    target-branch: "Development"
     labels:
       - "project dependencies"
